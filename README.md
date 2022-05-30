@@ -22,5 +22,7 @@ El proyecto final se encuentra en la carpeta de "Proyecto final" donde se implem
 
 # Capturas del Proyecto Final
 ![Captura 1](https://user-images.githubusercontent.com/89150007/171028950-f45cd413-9053-4baa-8667-d2883a4ec6d4.png)
+
 ![Captura 2](https://user-images.githubusercontent.com/89150007/171028957-d7312627-83ad-4f35-8c35-2ba9425e58bf.png)
+
 ![Captura 3](https://user-images.githubusercontent.com/89150007/171029639-e042fb80-c672-4a52-9608-9bd9572bfa77.png)
